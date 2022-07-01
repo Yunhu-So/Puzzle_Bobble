@@ -26,3 +26,8 @@ $ python3 Puzzle_Bobble.py
 * Startegize by looking at the color of upcoming bubble
 * Aim for the core of the bubbles as the rest of cluster will pop if disconnected
 * Do not waste any shots as the wall will start to fall every 7 moves
+
+## Updates
+
+Version 0: Created Puzzle_Bobble
+Version 1: Added more levels
