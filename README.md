@@ -30,4 +30,8 @@ $ python3 Puzzle_Bobble.py
 ## Updates
 
 Version 0: Created Puzzle_Bobble
+
 Version 1: Added more levels
+
+## Sources
+Idea received from [NadoCoding](https://nadocoding.tistory.com/)
